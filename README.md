@@ -30,7 +30,9 @@ This script automates the setup of SSH key-based authentication across multiple 
 3. On your target Linux machine:
 
 ```
-git clone https://github.com/YourUsername/ssh-key-auto-setup.git
+git clone https://github.com/S-A-Q/ssh-setup-new.git
+```
+```
 cd ssh-key-auto-setup
 bash setup_ssh.sh
 ```
