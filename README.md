@@ -28,7 +28,13 @@ This script automates the setup of SSH key-based authentication across multiple 
 1. **Fork this repo**
 2. Replace `id_rsa.pub` with your public key
 3. On your target Linux machine:
-
+```
+sudo apt install git -y
+```
+OR
+```
+sudo yum install git -y
+```
 ```
 git clone https://github.com/S-A-Q/ssh-setup-new.git
 ```
