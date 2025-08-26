@@ -39,7 +39,7 @@ sudo yum install git -y
 git clone https://github.com/S-A-Q/ssh-setup-new.git
 ```
 ```
-cd ssh-key-auto-setup
+cd ssh-setup-new
 bash setup_ssh.sh
 ```
 
